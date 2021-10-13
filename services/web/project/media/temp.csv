@@ -1,0 +1,20 @@
+Campaign status,Campaign,Budget name,Currency code,Budget,Budget type,Currency code.1,Status,Status reasons,Optimization score,Account,Campaign type,Impr.,Interactions,Interaction rate,Avg. cost,Cost,Avg. CPC,CTR,Clicks,Bid strategy type,Participated in-app actions,Cost / Participated in-app action
+Paused,Games-General-NonBrand-Phrase, --,USD,87.5,Daily,USD,Paused,campaign paused, --,Digital Marketing - Core - Games - Search,Search,0.0,0.0, --, --,0.0, --, --,0.0,Manual CPC,0.0, --
+Paused,Veterans-Tricare Open Enrollment-Non Brand-Exact, --,USD,150.47,Daily,USD,Paused,campaign paused,,,,,,,,,,,,,,
+Paused,Games-Rewards-Crossword-NonBrand-Phrase, --,USD,80.0,Daily,USD,Paused,campaign paused, --,Digital Marketing - Core - Games - Search,Search,0.0,0.0, --, --,0.0, --, --,0.0,Manual CPC,0.0, --
+Enabled,Games-Atari-NonBrand-Exact, --,USD,10.56,Daily,USD,Eligible,,79.71,Digital Marketing - Core - Games - Search,Search,805.0,120.0,14.91%,0.6,72.13,0.6,14.91%,120.0,Manual CPC,0.0, --
+Enabled,Games-Arcade-NonBrand-Exact, --,USD,87.5,Daily,USD,Eligible,,70.33,Digital Marketing - Core - Games - Search,Search,41.0,5.0,12.20%,0.16,0.79,0.16,12.20%,5.0,Manual CPC,0.0, --
+Enabled,Games-Cards-Solitaire-NonBrand-Exact, --,USD,196.16,Daily,USD,Eligible,,72.18,Digital Marketing - Core - Games - Search,Search,332.0,40.0,12.05%,0.14,5.54,0.14,12.05%,40.0,Manual CPC,0.0, --
+Enabled,Games-MembersOnly-Trivia-NonBrand-Exact, --,USD,2500.0,Daily,USD,Eligible,,75.2,Digital Marketing - Core - Games - Search,Search,11.0,1.0,9.09%,0.76,0.76,0.76,9.09%,1.0,Manual CPC,0.0, --
+Paused,Games-Word-NonBrand-Phrase, --,USD,87.5,Daily,USD,Paused,campaign paused, --,Digital Marketing - Core - Games - Search,Search,0.0,0.0, --, --,0.0, --, --,0.0,Manual CPC,0.0, --
+Paused,Veterans-Health Care Benefits-Non Brand-Exact, --,USD,22.0,Daily,USD,Paused,campaign paused,,,,,,,,,,,,,,
+Paused,Games-Mahjongg-NonBrand-Phrase, --,USD,87.5,Daily,USD,Paused,campaign paused, --,Digital Marketing - Core - Games - Search,Search,0.0,0.0, --, --,0.0, --, --,0.0,Manual CPC,0.0, --
+Enabled,Games-Rewards-Crossword-NonBrand-Exact-Experiment-LP, --,USD,80.0,Daily,USD,Ended,campaign ended, --,Digital Marketing - Core - Games - Search,Search,0.0,0.0, --, --,0.0, --, --,0.0,Manual CPC,0.0, --
+Paused,Medicare-NonBrand-Exact, --,USD,15.0,Daily,USD,Paused,campaign paused,,,,,,,,,,,,,,
+Paused,Community Connection_Find Group_Brand_Exact, --,USD,50.0,Daily,USD,Paused,campaign paused, --,Google Grants - Community Connections,Search,0.0,0.0, --, --,0.0, --, --,0.0,Maximize clicks,0.0, --
+Paused,Veterans-Resume Writing-Non Brand-Exact, --,USD,50.46,Daily,USD,Paused,campaign paused,,,,,,,,,,,,,,
+Paused,Games-Atari-NonBrand-Phrase, --,USD,62.97,Daily,USD,Paused,campaign paused, --,Digital Marketing - Core - Games - Search,Search,0.0,0.0, --, --,0.0, --, --,0.0,Manual CPC,0.0, --
+Paused,Newsletter_TheDailyTest_Non Brand_Exact, --,USD,28.33,Daily,USD,Paused,campaign paused, --,Digital Marketing - Newsletters - Search,Search,0.0,0.0, --, --,0.0, --, --,0.0,Manual CPC,0.0, --
+Paused,Games-Strategy-NonBrand-Phrase, --,USD,87.5,Daily,USD,Paused,campaign paused, --,Digital Marketing - Core - Games - Search,Search,0.0,0.0, --, --,0.0, --, --,0.0,Manual CPC,0.0, --
+Enabled,Games-MembersOnly-NonBrand-Exact, --,USD,21.95,Daily,USD,Eligible,,74.31,Digital Marketing - Core - Games - Search,Search,659.0,76.0,11.53%,0.19,14.69,0.19,11.53%,76.0,Manual CPC,0.0, --
+Paused,Medicare-NonBrand-BMM, --,USD,10.0,Daily,USD,Paused,campaign paused,,,,,,,,,,,,,,
