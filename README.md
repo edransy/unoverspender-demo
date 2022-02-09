@@ -2,12 +2,4 @@
 
 # Dockerizing Flask with Postgres
 
-## Want to learn how to build this?
-
-Check out the [post](https://testdriven.io/blog/dockerizing-flask-with-postgres-gunicorn-and-nginx).
-
-## Want to use this project?
-
-### Development
-
-Uses the default Flask development server.
+Quick tool for preventing increasing budgets by many orders of magnitude by contacting admins and sending warnings. 
